@@ -1,0 +1,15 @@
+E:\app-dev-csharp\Assignment\obj\Debug\net8.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\app-dev-csharp\Assignment\obj\Debug\net8.0\Assignment.AssemblyInfoInputs.cache
+E:\app-dev-csharp\Assignment\obj\Debug\net8.0\Assignment.AssemblyInfo.cs
+E:\app-dev-csharp\Assignment\obj\Debug\net8.0\Assignment.csproj.CoreCompileInputs.cache
+E:\app-dev-csharp\Assignment\obj\Debug\net8.0\Assignment.sourcelink.json
+E:\app-dev-csharp\Assignment\bin\Debug\net8.0\Assignment.exe
+E:\app-dev-csharp\Assignment\bin\Debug\net8.0\Assignment.deps.json
+E:\app-dev-csharp\Assignment\bin\Debug\net8.0\Assignment.runtimeconfig.json
+E:\app-dev-csharp\Assignment\bin\Debug\net8.0\Assignment.dll
+E:\app-dev-csharp\Assignment\bin\Debug\net8.0\Assignment.pdb
+E:\app-dev-csharp\Assignment\obj\Debug\net8.0\Assignment.dll
+E:\app-dev-csharp\Assignment\obj\Debug\net8.0\refint\Assignment.dll
+E:\app-dev-csharp\Assignment\obj\Debug\net8.0\Assignment.pdb
+E:\app-dev-csharp\Assignment\obj\Debug\net8.0\Assignment.genruntimeconfig.cache
+E:\app-dev-csharp\Assignment\obj\Debug\net8.0\ref\Assignment.dll
